@@ -9,12 +9,13 @@
           transform: translateZ(0) scale(1,1);
       }
 }
+
 .ldio-r0lkcw6pgpj div > div {
     position: absolute;
     width: 24px;
     height: 24px;
     border-radius: 50%;
-    background: #061167;
+    background: #000050;
     animation: ldio-r0lkcw6pgpj 1s linear infinite;
 }.ldio-r0lkcw6pgpj div:nth-child(1) > div {
      left: 148px;
